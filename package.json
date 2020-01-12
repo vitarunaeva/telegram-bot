@@ -1,0 +1,24 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Reminder bot for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitarunaeva/telegram-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "author": "Runaeva Violetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitarunaeva/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/vitarunaeva/telegram-bot#readme"
+}
