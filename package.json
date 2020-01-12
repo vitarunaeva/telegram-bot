@@ -17,6 +17,10 @@
   ],
   "author": "Runaeva Violetta",
   "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "socks5-https-client": "^1.2.1"
+  },
   "bugs": {
     "url": "https://github.com/vitarunaeva/telegram-bot/issues"
   },
